@@ -1,2 +1,2 @@
-# Health-and-Wellness-Coaching
- It contains a website
+# Landing Page
+ It contains a Landing Page
